@@ -1,5 +1,6 @@
 # :brain: :art: Exquisite Corpse Collaboration Project :brain: :art:
 
+
 ## What is This? :eye: :lips: :eye:
 
 This is a collaborative collage that lets each contributor add whatever they like. Let's build something weird and unpredictable together!
@@ -13,11 +14,6 @@ You don't need any fancy tools-just your imagination and a keyboard.
 
 - **Where to contribute:** Head to the *ascii_art/* folder.
 - **Rules:** Feel free to modify existing art, but leave some of the original work intact so others can use it.
-
-
-
-
-
 
 ### 2. :writing_hand: Random Sentence Story
 Let's create a story by adding randomly generated sentences that use one noun or adjective used in the previous sentence.

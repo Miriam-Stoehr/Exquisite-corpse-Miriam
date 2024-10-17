@@ -1,6 +1,6 @@
 # :brain: :art: Exquisite Corpse Collaboration Project :brain: :art:
 
-<p></p>
+<br />
 
 ## What is This? :eye: :lips: :eye:
 

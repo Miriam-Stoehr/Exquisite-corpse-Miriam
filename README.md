@@ -13,11 +13,11 @@ You don't need any fancy tools-just your imagination and a keyboard.
 
 - **Where to contribute:** Head to the *ascii_art/* folder.
 - **Rules:** Feel free to modify existing art, but leave some of the original work intact so others can use it.
-- **Example:**
 
-  (\(\
-  (-.-)
-o_(")(") 
+
+
+
+
 
 ### 2. :writing_hand: Random Sentence Story
 Let's create a story by adding randomly generated sentences that use one noun or adjective used in the previous sentence.
@@ -30,7 +30,7 @@ Join forces to create an ever-changing and unpredictable webpage! Each contribut
 - **Where to contribute:** Work on the *web_collage/* folder
 - **Rules:** Add new sections, style them however you like, or modify existing ones! Just don't break the page... too much
 
-###4. :computer: Creative Coding
+### 4. :computer: Creative Coding
 Create patterns, shapes or whatever you'd like using code.
 
 - **Where to contribute:** Look into the *creative_coding/* folder

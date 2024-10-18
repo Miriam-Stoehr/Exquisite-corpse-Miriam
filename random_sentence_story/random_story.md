@@ -13,3 +13,4 @@ Let's see where the story goes!
 ------------------------------------------------------------------------------------------------------------------------------
 
 Late at night, the vending machine at the corner of the alley made a soft humming sound, though no one ever bought anything from it. That was until you tried pressing the button marked Înd watched as something entirely unexpected fell out.
+...and instead of a snack, the slot dispensed a single golden :key:, cold to the touch, with an address scratched into its surface.

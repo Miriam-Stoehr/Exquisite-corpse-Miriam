@@ -18,7 +18,7 @@ You don't need any fancy tools-just your imagination and a keyboard.
 
 ### 2. :writing_hand: Random Sentence Story
 Let's create a story by adding randomly generated sentences that use one noun or adjective used in the previous sentence.
-- **Where to contribute:** Check out the *random_sentence_story/* folder and open *story.txt*
+- **Where to contribute:** Check out the *README.md* in the *random_sentence_story/* folder
 - **Rules:** Use your AI of choice to generate one or more random sentences.
 
 ### 3. :computer: Creative Coding

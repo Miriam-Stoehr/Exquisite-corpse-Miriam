@@ -21,13 +21,7 @@ Let's create a story by adding randomly generated sentences that use one noun or
 - **Where to contribute:** Check out the *random_sentence_story/* folder and open *story.txt*
 - **Rules:** Use your AI of choice to generate one or more random sentences.
 
-### 3. :globe_with_meridians: Collaborative Webpage
-Join forces to create an ever-changing and unpredictable webpage! Each contributer can add HTML, CSS or JavaScript
-
-- **Where to contribute:** Work on the *web_collage/* folder
-- **Rules:** Add new sections, style them however you like, or modify existing ones! Just don't break the page... too much
-
-### 4. :computer: Creative Coding
+### 3. :computer: Creative Coding
 Create patterns, shapes or whatever you'd like using code.
 
 - **Where to contribute:** Look into the *creative_coding/* folder
